@@ -8,6 +8,10 @@ public class SpringbootLandpropertiesApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringbootLandpropertiesApplication.class, args);
+		
+		System.out.println("Git Demo");
+		
+		
 	}
 
 }
